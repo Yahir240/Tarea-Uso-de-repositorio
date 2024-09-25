@@ -6,4 +6,4 @@ int main()
     scanf_s("%i%i", &bfSize, &bfOffBits);
 
 
-
+int dgdpsadpasjdpsaid; shdoahdosaihdoaiss
